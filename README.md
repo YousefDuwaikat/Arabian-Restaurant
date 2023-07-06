@@ -7,7 +7,7 @@ this is the first form
 
 
 ##Form1.cs
-this is the second form that appears after 8 seconds from the running time, this form  shows the full menu for the Arabian Restaurant
+this is the main menu form that appears after 8 seconds from the running time, this form shows the full menu for the Arabian Restaurant
 ![2](https://github.com/YousefDuwaikat/Arabian-Restaurant/assets/121832617/66d6785b-ba76-4897-9884-6a6b2a41ccab)
 
 
